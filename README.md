@@ -1,7 +1,7 @@
 Привет, це код для боту по конвертації session до tdata у вигляді telegram-botа.
 
 Перед використанням бота обов'язково виконайте:
-pip install -r req.txt
+pip install aiohttp asyncio opentele telebot zipfile
 
 Замініть в tgBotToken.txt токен вашого телеграм бота:(
 Щоб отримати токен перейдіть в телеграммі в чат з @botFather
@@ -13,3 +13,4 @@ session_converterbot
 Після цього ви отримуете токен, котрий вставляете до tgBotToken.txt).
 
 запустити бота - python bot.py
+
