@@ -14,3 +14,6 @@ session_converterbot
 
 запустити бота - python bot.py
 
+
+
+<b>[ЦЕЙ БОТ БУВ СТВОРЕНИЙ ЗА ДОПОМОГОЮ claude 3.5]</b>
